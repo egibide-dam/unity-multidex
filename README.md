@@ -1,6 +1,6 @@
 # unity-multidex
 
-1. Habilitar el archivo Gradle personalizado en `Edit->Preferences->Player->Android->Publishing Settings`:
+1. Habilitar el archivo Gradle personalizado en `Edit -> Preferences -> Player -> Android -> Publishing Settings`:
 
   ![](a.png)
 
