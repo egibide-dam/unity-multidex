@@ -1,13 +1,11 @@
 # unity-multidex
 
-Habilitar MultiDex en un proyecto Unity: https://appmediation.com/unity-enable-multidex/
+1. Habilitar el archivo Gradle personalizado en `Edit->Preferences->Player->Android->Publishing Settings`:
 
-Seguir las instrucciones de la sección "Change Gradle settings".
+  ![](a.png)
 
-Habilitar el archivo Gradle personalizado:
+2. Habilitar la opción multiDex:
 
-![](a.png)
+  ![](b.png)
 
-Habilitar la opción multiDex:
-
-![](b.png)
+Referencia: [Habilitar MultiDex en un proyecto Unity](https://appmediation.com/unity-enable-multidex/).
