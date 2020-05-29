@@ -1,6 +1,6 @@
 # unity-multidex
 
-1. Actualizar Unity a la versión 2019.3.14 como mínimo (instalar Android Build Support incluyendo el Android SDK y el OpenJDK).
+1. Actualizar Unity a la versión `2019.3.14` como mínimo (instalar `Android Build Support` incluyendo `Android SDK & NDK Tools` y `OpenJDK`).
 
 2. Ir a `Edit → Project Settings → Player → Android → Publishing Settings → Build`.
 
