@@ -1,6 +1,6 @@
 # unity-multidex
 
-1. Ir a `Edit -> Preferences -> Player -> Android -> Publishing Settings`.
+1. Ir a `Edit -> Project Settings -> Player -> Android -> Publishing Settings`.
 
 2. Habilitar el archivo Gradle personalizado haciendo click en `Custom Gradle Template`.
 
