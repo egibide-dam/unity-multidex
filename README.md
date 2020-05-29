@@ -8,7 +8,7 @@
 
   ![](a.png)
 
-4. Editar el archivo `Assets/Plugins/Android/mainTemplate.gradle` y habilitar la opción multiDex:
+4. Editar el archivo `Assets/Plugins/Android/mainTemplate.gradle`, borrar el comentario del principio y habilitar la opción multiDex:
 
   ![](b.png)
 
