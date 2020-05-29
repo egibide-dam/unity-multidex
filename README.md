@@ -1,8 +1,8 @@
 # unity-multidex
 
-1. Ir a `Edit → Project Settings → Player → Android → Publishing Settings`.
+1. Actualizar Unity a la versión 2019.3.14 como mínimo (instalar Android Build Support incluyendo el Android SDK y el OpenJDK).
 
-2. Habilitar el archivo Gradle personalizado haciendo click en `Custom Gradle Template`.
+2. Ir a `Edit → Project Settings → Player → Android → Publishing Settings → Build`.
 
 3. Marcar la opción `Custom Main Gradle Template` y se generará el archivo en la carpeta `Assets`.
 
